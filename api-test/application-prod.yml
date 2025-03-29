@@ -1,0 +1,7 @@
+server:
+  port: 8070
+
+message:
+  welcome: "Bem-vindo ao ambiente de produção da API Test!"
+
+
