@@ -1,8 +1,6 @@
 server:
   port: 8070
 
-mensagem:
-  bemvindo: "Bem-vindo ao ambiente de desenvolvimento da API Test!"
-
-
+message:
+  welcome: "Bem-vindo ao ambiente de desenvolvimento da API Test!"
 

@@ -1,7 +1,5 @@
 server:
   port: 8070
 
-mensagem:
-  bemvindo: "Bem-vindo ao ambiente de produção da API Test!"
-
-
+message:
+  welcome: "{cipher}6ec6d86281fa9a8f154d24d25ad4566a137e0e52b51a0407acda9372f71d186c"

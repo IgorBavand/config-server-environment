@@ -1,6 +1,0 @@
-server:
-  port: 8070
-
-message:
-  welcome: "Olá! Configuração padrão da API Test carregada!"
-
