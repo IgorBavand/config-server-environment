@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+mensagem:
+  bemvindo: "Olá! Configuração padrão da API Test carregada!"
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/meubanco
+    username: user
+    password: senha
+

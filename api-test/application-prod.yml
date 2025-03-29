@@ -1,0 +1,12 @@
+server:
+  port: 8082
+
+mensagem:
+  bemvindo: "Bem-vindo ao ambiente de produção da API Test!"
+
+spring:
+  datasource:
+    url: jdbc:postgresql://db-producao:5432/meubanco_prod
+    username: prod_user
+    password: prod_senha
+

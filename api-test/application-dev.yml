@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+mensagem:
+  bemvindo: "Bem-vindo ao ambiente de desenvolvimento da API Test!"
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/meubanco_dev
+    username: dev_user
+    password: dev_senha
+
